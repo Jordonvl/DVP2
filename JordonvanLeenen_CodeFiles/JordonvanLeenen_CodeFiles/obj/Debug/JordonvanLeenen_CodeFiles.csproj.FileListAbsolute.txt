@@ -1,0 +1,9 @@
+c:\users\jordon van leenen\source\repos\JordonvanLeenen_CodeFiles\JordonvanLeenen_CodeFiles\bin\Debug\JordonvanLeenen_CodeFiles.exe.config
+c:\users\jordon van leenen\source\repos\JordonvanLeenen_CodeFiles\JordonvanLeenen_CodeFiles\bin\Debug\JordonvanLeenen_CodeFiles.exe
+c:\users\jordon van leenen\source\repos\JordonvanLeenen_CodeFiles\JordonvanLeenen_CodeFiles\bin\Debug\JordonvanLeenen_CodeFiles.pdb
+c:\users\jordon van leenen\source\repos\JordonvanLeenen_CodeFiles\JordonvanLeenen_CodeFiles\bin\Debug\MySql.Data.dll
+c:\users\jordon van leenen\source\repos\JordonvanLeenen_CodeFiles\JordonvanLeenen_CodeFiles\obj\Debug\JordonvanLeenen_CodeFiles.csprojAssemblyReference.cache
+c:\users\jordon van leenen\source\repos\JordonvanLeenen_CodeFiles\JordonvanLeenen_CodeFiles\obj\Debug\JordonvanLeenen_CodeFiles.csproj.CoreCompileInputs.cache
+c:\users\jordon van leenen\source\repos\JordonvanLeenen_CodeFiles\JordonvanLeenen_CodeFiles\obj\Debug\JordonvanLeenen_CodeFiles.csproj.CopyComplete
+c:\users\jordon van leenen\source\repos\JordonvanLeenen_CodeFiles\JordonvanLeenen_CodeFiles\obj\Debug\JordonvanLeenen_CodeFiles.exe
+c:\users\jordon van leenen\source\repos\JordonvanLeenen_CodeFiles\JordonvanLeenen_CodeFiles\obj\Debug\JordonvanLeenen_CodeFiles.pdb

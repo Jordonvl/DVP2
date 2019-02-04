@@ -1,0 +1,9 @@
+c:\users\jordon van leenen\source\repos\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+c:\users\jordon van leenen\source\repos\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+c:\users\jordon van leenen\source\repos\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+c:\users\jordon van leenen\source\repos\FinalProject\FinalProject\bin\Debug\MySql.Data.dll
+c:\users\jordon van leenen\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.csprojAssemblyReference.cache
+c:\users\jordon van leenen\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+c:\users\jordon van leenen\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CopyComplete
+c:\users\jordon van leenen\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+c:\users\jordon van leenen\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.pdb

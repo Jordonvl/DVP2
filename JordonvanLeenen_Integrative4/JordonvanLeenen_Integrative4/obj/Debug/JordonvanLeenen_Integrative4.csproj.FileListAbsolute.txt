@@ -1,0 +1,9 @@
+C:\Users\jordon van leenen\source\repos\JordonvanLeenen_Integrative4\JordonvanLeenen_Integrative4\bin\Debug\JordonvanLeenen_Integrative4.exe.config
+C:\Users\jordon van leenen\source\repos\JordonvanLeenen_Integrative4\JordonvanLeenen_Integrative4\bin\Debug\JordonvanLeenen_Integrative4.exe
+C:\Users\jordon van leenen\source\repos\JordonvanLeenen_Integrative4\JordonvanLeenen_Integrative4\bin\Debug\JordonvanLeenen_Integrative4.pdb
+C:\Users\jordon van leenen\source\repos\JordonvanLeenen_Integrative4\JordonvanLeenen_Integrative4\bin\Debug\MySql.Data.dll
+C:\Users\jordon van leenen\source\repos\JordonvanLeenen_Integrative4\JordonvanLeenen_Integrative4\obj\Debug\JordonvanLeenen_Integrative4.csprojAssemblyReference.cache
+C:\Users\jordon van leenen\source\repos\JordonvanLeenen_Integrative4\JordonvanLeenen_Integrative4\obj\Debug\JordonvanLeenen_Integrative4.csproj.CoreCompileInputs.cache
+C:\Users\jordon van leenen\source\repos\JordonvanLeenen_Integrative4\JordonvanLeenen_Integrative4\obj\Debug\JordonvanLeenen_Integrative4.csproj.CopyComplete
+C:\Users\jordon van leenen\source\repos\JordonvanLeenen_Integrative4\JordonvanLeenen_Integrative4\obj\Debug\JordonvanLeenen_Integrative4.exe
+C:\Users\jordon van leenen\source\repos\JordonvanLeenen_Integrative4\JordonvanLeenen_Integrative4\obj\Debug\JordonvanLeenen_Integrative4.pdb
